@@ -1,4 +1,4 @@
-module example/GoPractice
+module example.com/GoPractice
 
 go 1.17
 
